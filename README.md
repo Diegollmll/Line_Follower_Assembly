@@ -6,7 +6,7 @@ The line follower robot moves along a 20mm wide line and stops at a 20cm wide bl
 
 This repository contents:
 
-* Circuit design (Schematic diagram)
+* Flow diagram
 * Source code (Assembly)
 * Simulation in Proteus Professional (File .pdsprj)
 * Laboratory report
