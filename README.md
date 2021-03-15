@@ -33,7 +33,7 @@ How to install:
 
 Authors:
 
-Universidad de Ibague - Electronica Digitral II
+Universidad de Ibague - Electronica Digital II
 
 * Diego Alejandro Torres Urrego (https://github.com/Diegollmll)
 * Luis Fernando Gomez Diaz
