@@ -36,5 +36,5 @@ Authors:
 
 Universidad de Ibague - Electronica Digitral II
 
-* Diego Alejandro Torres Urrego
+* Diego Alejandro Torres Urrego (https://github.com/Diegollmll)
 * Luis Fernando Gomez Diaz
