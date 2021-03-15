@@ -12,8 +12,8 @@ This repository contents:
 
 Software requeriments:
 
-* MPLABX
-* Proteus Professional
+* MPLABX (Version 5.40)
+* Proteus Professional (Version 8.1)
 * PDF viewer
 
 Hardware requeriments:
